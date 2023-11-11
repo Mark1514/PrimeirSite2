@@ -1,5 +1,25 @@
 body {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.container {
+    padding: 0px 45px;
+}
+
+nav {
+    background-color: rgb(147, 7, 7);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: white;
+    box-shadow: 20px 20px 20px crimson;
+}
+
+img {
+    width: 50%;
+    height: 50%;
 }
